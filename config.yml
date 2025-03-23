@@ -23,7 +23,7 @@ menus:
 params:
   subtitle: 57. konference EurOpen.cz 25.-28. května 2025 Brandýs nad Labem
   ui:
-    footer_about_disable: false
+    footer_about_enable: true
     navbar_logo: false
   links:
     user:
