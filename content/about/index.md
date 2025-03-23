@@ -16,7 +16,7 @@ Nové webové stránky navrhl a realizoval [Jiří Sitera](https://siterovi.cz/j
 [Zdrojové kódy](https://github.com/europen-cz) jsou na githubu, kde lze zároveň komentovat nebo přímo navrhovat editace. Případně je možno kontaktovat autora, či využít kontaktů na EurOpen.CZ viz ikony v zápatí stránky. TODO list je zatím [zde](https://siterovi.cz/news/europen.cz/).
 
 ## Credits
-OpenStreetMap.cz
+Podkladová grafika (mapa) OpenStreetMap.cz.
 
 {{% /blocks/section %}}
 
