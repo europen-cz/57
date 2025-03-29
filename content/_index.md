@@ -24,7 +24,7 @@ Jak se přihlásit na konferenci
 {.h1}
 Aktuálně probíhá příprava programu konference. Následně bude zveřejněna pozvánka a otevřena přihláška. Zatím se můžete podívat jak vypadá pozvánka a program konference [zde (program jarní konference 2024)](https://europen.zcu.cz/Anot/56/56poz.pdf). Plánovaný formát konference:
 - **Pondělí** *přednáškové bloky od 9 do 17h*, poté večeře a večerní (netechnická) přednáška. Je možno přijet v neděli večer a účastnit se neformálního setkání u večeře a vyhnout se rannímu cestování.
-- **Úterý** *přednáškový blok od 9 do 13h*, poté oběd a následuje práce v sekcích. Ta je příležitostí pro navazování neformálních kontaktů i *aktivní odpočinek* v okolí.
+- **Úterý** *přednáškový blok od 9 do 13h*, poté oběd a následuje práce v sekcích. Ta je příležitostí pro navazování neformálních kontaktů i *aktivní odpočinek* v okolí. Připravujeme prohlídku Baziliky Nanebevzetí Panny Marie ve Staré Boleslavi.
 - **Středa** dopoledne *exkurze* nebo *tutorial*.
 
 **Rezervujte si v kalendáři:** Jarní konference EurOpen.CZ 2025 proběhle od pondělí 26. května do středy 28. května v [Brandýse nad Labem](https://cs.wikipedia.org/wiki/Brand%C3%BDs_nad_Labem-Star%C3%A1_Boleslav).
