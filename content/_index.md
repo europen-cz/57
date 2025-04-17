@@ -14,20 +14,23 @@ Mít přednášku
 <p class="lead mt-3 mb-3 fw-bold">
 25.-28. května 2025 Brandýs nad Labem <a href="https://www.sportcentrumbrandys.cz/">Sportcentrum Brandýs</a>
 </p>
+<p class="lead mt-3 mb-3 fw-bold">
+Hlavní téma vývoj a programování
+</p>
 <p class="lead mt-3 mb-3">
-Stručně: svěží vítr v programovém výboru pod vedením Pavla Šimerdy, hlavním téma vývoj a programování, blízko Prahy, jako vždy skvělí lidé a okolí nejen pro práci v sekcích.
+Stručně: svěží vítr v programovém výboru pod vedením Pavla Šimerdy, blízko Prahy, jako vždy skvělí lidé a okolí nejen pro práci v sekcích.
 <a href="#td-block-2">Více o přípravě konference.</a> </p>
 {{< /blocks/cover >}}
 
 {{% blocks/section %}}
 Jak se přihlásit na konferenci
 {.h1}
-Aktuálně probíhá příprava programu konference. Následně bude zveřejněna pozvánka a otevřena přihláška. Zatím se můžete podívat jak vypadá pozvánka a program konference [zde (program jarní konference 2024)](https://europen.zcu.cz/Anot/56/56poz.pdf). Plánovaný formát konference:
+Aktuálně probíhá příprava programu konference. Následně bude zveřejněna pozvánka a otevřena přihláška. Plánovaný formát konference:
 - **Pondělí** *přednáškové bloky od 9 do 17h*, poté večeře a večerní (netechnická) přednáška. Je možno přijet v neděli večer a účastnit se neformálního setkání u večeře a vyhnout se rannímu cestování.
 - **Úterý** *přednáškový blok od 9 do 13h*, poté oběd a následuje práce v sekcích. Ta je příležitostí pro navazování neformálních kontaktů i *aktivní odpočinek* v okolí. Připravujeme prohlídku Baziliky Nanebevzetí Panny Marie ve Staré Boleslavi.
 - **Středa** dopoledne *exkurze* nebo *tutorial*.
 
-**Rezervujte si v kalendáři:** Jarní konference EurOpen.CZ 2025 proběhle od pondělí 26. května do středy 28. května v [Brandýse nad Labem](https://cs.wikipedia.org/wiki/Brand%C3%BDs_nad_Labem-Star%C3%A1_Boleslav).
+**Rezervujte si v kalendáři:** Jarní konference EurOpen.CZ 2025 proběhle od **pondělí 26. května do středy 28. května** v [Brandýse nad Labem](https://cs.wikipedia.org/wiki/Brand%C3%BDs_nad_Labem-Star%C3%A1_Boleslav).
 
 {{% /blocks/section %}}
 
@@ -41,9 +44,9 @@ Předem děkujeme za návrhy přednášek, nápady koho oslovit i za organizačn
 Nabídky a návrhy směřujte na předsedu programového výboru Pavla Šimerdu nebo email europen@europen.cz.
 
 Preferovaná témata přednášek:
-- Programovací jazyky, standardy, ekosystémy.
-- Specifika hardware, mikrokontrolery a jiné zajímavé aspekty tvorby kódu.
-- Programovací techniky, algoritmy a související témata
+- **Programovací jazyky, standardy, ekosystémy.**
+- **Specifika hardware, mikrokontrolery a jiné zajímavé aspekty tvorby kódu.**
+- **Programovací techniky, algoritmy a související témata.**
 
 Programový výbor
 {.h2}
@@ -67,7 +70,7 @@ Hlavní kontakt je: Anna Šlosarová, EurOpen.CZ, Univerzitní 8, 306 14 Plzeň,
 **Jaká je cena konference?**
 {{< /collapse/above >}}
 {{< collapse/below >}}
-Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné na konferenci bez tutorialu je zhruba 2500 Kč.
+Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné na konferenci: včasné členové 2200 Kč a nečlenové pak 2400 Kč. Po vypršení včasného přihlášení je vložné členové 2450 Kč a nečlenové pak 2650 Kč. Náklady na ubytování jsou 700 Kč na den včetně snídaně. Stravování: oběd 175 Kč, večeře 150 Kč a občerstvení na přestávku 150 Kč.
 {{< /collapse/below >}}
 {{< /collapse >}}
 
