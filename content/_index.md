@@ -70,7 +70,7 @@ Hlavní kontakt je: Anna Šlosarová, EurOpen.CZ, Univerzitní 8, 306 14 Plzeň,
 **Jaká je cena konference?**
 {{< /collapse/above >}}
 {{< collapse/below >}}
-Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné na konferenci: včasné členové 2200 Kč a nečlenové pak 2400 Kč. Po vypršení včasného přihlášení je vložné členové 2450 Kč a nečlenové pak 2650 Kč. Náklady na ubytování jsou 700 Kč na den včetně snídaně. Stravování: oběd 175 Kč, večeře 150 Kč a občerstvení na přestávku 150 Kč.
+Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné na konferenci: včasné členové 2200 Kč a nečlenové pak 2400 Kč. Po vypršení včasného přihlášení je vložné členové 2450 Kč a nečlenové pak 2650 Kč. Náklady na ubytování jsou 700 Kč na den včetně snídaně. Stravování: oběd 175 Kč, večeře 150 Kč a občerstvení na přestávku 150 Kč. Včasná platba je do 12.5.2025 včetně.
 {{< /collapse/below >}}
 {{< /collapse >}}
 
