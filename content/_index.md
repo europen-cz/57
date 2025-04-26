@@ -70,7 +70,7 @@ Hlavní kontakt je: Anna Šlosarová, EurOpen.CZ, Univerzitní 8, 306 14 Plzeň,
 **Jaká je cena konference?**
 {{< /collapse/above >}}
 {{< collapse/below >}}
-Cena se skládá z vložného a nákladů na stravu a ubytování. Základní **vložné je 2400 Kč** na konferenci a 300 Kč na tutorial. Podrobnější informace následují. Vložné na konferenci: včasné členové 2200 Kč a nečlenové pak 2400 Kč. Po vypršení včasného přihlášení je vložné členové 2450 Kč a nečlenové pak 2650 Kč. Náklady na ubytování jsou 700 Kč na den včetně snídaně. Stravování: oběd 175 Kč, večeře 150 Kč a občerstvení na přestávku 150 Kč. Včasná platba je do 12.5.2025 včetně.
+Cena se skládá z vložného a nákladů na stravu a ubytování. Základní **vložné je 2400 Kč** na konferenci a 400 Kč na tutorial. Podrobnější informace následují. Vložné na konferenci: včasné členové 2200 Kč a nečlenové pak 2400 Kč. Po vypršení včasného přihlášení je vložné členové 2450 Kč a nečlenové pak 2650 Kč. Náklady na ubytování jsou 700 Kč na den včetně snídaně. Stravování: oběd 175 Kč, večeře 150 Kč a občerstvení na přestávku 150 Kč. Včasná platba je do 12.5.2025 včetně.
 {{< /collapse/below >}}
 {{< /collapse >}}
 
@@ -79,7 +79,7 @@ Cena se skládá z vložného a nákladů na stravu a ubytování. Základní **
 **Co je to tutorial?**
 {{< /collapse/above >}}
 {{< collapse/below >}}
-Tutorial je prakticky orientovaná část konference na konkrétní téma, která trvá typicky 3-4 hodiny. Počet účastníků je omezen, je třeba se samostatně přihlásit. Tutorial má vlastní vložné (zhruba 700 Kč).
+Tutorial je prakticky orientovaná část konference na konkrétní téma, která trvá typicky 3-4 hodiny. Počet účastníků je omezen, je třeba se přihlásit (navíc k vlastní konferenci). Tutorial má také vložné plus 400 Kč k vložnému konference.
 {{< /collapse/below >}}
 {{< /collapse >}}
 
