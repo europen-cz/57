@@ -27,8 +27,8 @@ Jak se přihlásit na konferenci
 {.h1}
 Aktuálně probíhá příprava programu konference. Následně bude zveřejněna pozvánka a otevřena přihláška. Plánovaný formát konference:
 - **Pondělí** *přednáškové bloky od 9 do 17h*, poté večeře a večerní (netechnická) přednáška. Je **možno přijet v neděli** večer a účastnit se neformálního setkání u večeře a vyhnout se rannímu cestování.
-- **Úterý** *přednáškový blok od 9 do 13h*, poté oběd a následuje práce v sekcích. Ta je příležitostí pro navazování neformálních kontaktů i *aktivní odpočinek* v okolí. Připravujeme *prohlídku Baziliky Nanebevzetí Panny Marie ve Staré Boleslavi*.
-- **Středa** dopoledne *exkurze* nebo *tutorial*.
+- **Úterý** *přednáškový blok od 9 do 13h*, poté oběd a následuje práce v sekcích. Ta je příležitostí pro navazování neformálních kontaktů i *aktivní odpočinek* v okolí. Rezervována je ve 14:30 *prohlídka kostelů ve Staré Boleslavi (Bazilika Nanebevzetí Panny Marie, bazilika svatého Václava a kostel svatého Klementa*).
+- **Středa** *tutorial od 9 do 12h* Bezpečné programování: Jak využít vlastnosti programovacího jazyka (Pavel Šimerda).
 
 **Rezervujte si v kalendáři:** Jarní konference EurOpen.CZ 2025 proběhle od **pondělí 26. května do středy 28. května** v [Brandýse nad Labem](https://cs.wikipedia.org/wiki/Brand%C3%BDs_nad_Labem-Star%C3%A1_Boleslav).
 
@@ -71,6 +71,7 @@ Hlavní kontakt je: Anna Šlosarová, EurOpen.CZ, Univerzitní 8, 306 14 Plzeň,
 {{< /collapse/above >}}
 {{< collapse/below >}}
 Cena se skládá z vložného a nákladů na stravu a ubytování. Základní **vložné je 2450 Kč** na konferenci a 400 Kč na tutorial. Podrobnější informace následují. Vložné na konferenci: včasné členové 2200 Kč a nečlenové pak 2450 Kč. Po vypršení včasného přihlášení je vložné členové 2400 Kč a nečlenové pak 2650 Kč. Náklady na ubytování jsou 700 Kč na den včetně snídaně. Stravování: oběd 175 Kč, večeře 150 Kč a občerstvení na přestávku 150 Kč. Včasná platba je do 12.5.2025 včetně.
+Cena za prohlídku kostelů v úterý odpoledne je zcela zvlášť, 300 Kč na osobu v hotovosti na místě.
 {{< /collapse/below >}}
 {{< /collapse >}}
 
