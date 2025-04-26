@@ -1,7 +1,7 @@
 ---
 title: Jarní konference EurOpen.cz 2025
 type: home
-description: 57. konference EurOpen.cz 25.-28. května 2025 Brandýs nad Labem
+description: 57. konference EurOpen.cz 26.-28. května 2025 Brandýs nad Labem
 ---
 
 {{< blocks/cover title="Jarní konference EurOpen.cz 2025" image_anchor="top" height="auto" >}}
@@ -12,7 +12,7 @@ Zúčastnit se
 Mít přednášku
 </a>
 <p class="lead mt-3 mb-3 fw-bold">
-25.-28. května 2025 Brandýs nad Labem <a href="https://www.sportcentrumbrandys.cz/">Sportcentrum Brandýs</a>
+26.-28. května 2025 Brandýs nad Labem <a href="https://www.sportcentrumbrandys.cz/">Sportcentrum Brandýs</a>
 </p>
 <p class="lead mt-3 mb-3 fw-bold">
 Hlavní téma vývoj a programování
@@ -26,8 +26,8 @@ Stručně: svěží vítr v programovém výboru pod vedením Pavla Šimerdy, bl
 Jak se přihlásit na konferenci
 {.h1}
 Aktuálně probíhá příprava programu konference. Následně bude zveřejněna pozvánka a otevřena přihláška. Plánovaný formát konference:
-- **Pondělí** *přednáškové bloky od 9 do 17h*, poté večeře a večerní (netechnická) přednáška. Je možno přijet v neděli večer a účastnit se neformálního setkání u večeře a vyhnout se rannímu cestování.
-- **Úterý** *přednáškový blok od 9 do 13h*, poté oběd a následuje práce v sekcích. Ta je příležitostí pro navazování neformálních kontaktů i *aktivní odpočinek* v okolí. Připravujeme prohlídku Baziliky Nanebevzetí Panny Marie ve Staré Boleslavi.
+- **Pondělí** *přednáškové bloky od 9 do 17h*, poté večeře a večerní (netechnická) přednáška. Je **možno přijet v neděli** večer a účastnit se neformálního setkání u večeře a vyhnout se rannímu cestování.
+- **Úterý** *přednáškový blok od 9 do 13h*, poté oběd a následuje práce v sekcích. Ta je příležitostí pro navazování neformálních kontaktů i *aktivní odpočinek* v okolí. Připravujeme *prohlídku Baziliky Nanebevzetí Panny Marie ve Staré Boleslavi*.
 - **Středa** dopoledne *exkurze* nebo *tutorial*.
 
 **Rezervujte si v kalendáři:** Jarní konference EurOpen.CZ 2025 proběhle od **pondělí 26. května do středy 28. května** v [Brandýse nad Labem](https://cs.wikipedia.org/wiki/Brand%C3%BDs_nad_Labem-Star%C3%A1_Boleslav).
@@ -70,7 +70,7 @@ Hlavní kontakt je: Anna Šlosarová, EurOpen.CZ, Univerzitní 8, 306 14 Plzeň,
 **Jaká je cena konference?**
 {{< /collapse/above >}}
 {{< collapse/below >}}
-Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné na konferenci: včasné členové 2200 Kč a nečlenové pak 2400 Kč. Po vypršení včasného přihlášení je vložné členové 2450 Kč a nečlenové pak 2650 Kč. Náklady na ubytování jsou 700 Kč na den včetně snídaně. Stravování: oběd 175 Kč, večeře 150 Kč a občerstvení na přestávku 150 Kč. Včasná platba je do 12.5.2025 včetně.
+Cena se skládá z vložného a nákladů na stravu a ubytování. Základní **vložné je 2400 Kč** na konferenci a 300 Kč na tutorial. Podrobnější informace následují. Vložné na konferenci: včasné členové 2200 Kč a nečlenové pak 2400 Kč. Po vypršení včasného přihlášení je vložné členové 2450 Kč a nečlenové pak 2650 Kč. Náklady na ubytování jsou 700 Kč na den včetně snídaně. Stravování: oběd 175 Kč, večeře 150 Kč a občerstvení na přestávku 150 Kč. Včasná platba je do 12.5.2025 včetně.
 {{< /collapse/below >}}
 {{< /collapse >}}
 

@@ -2,7 +2,7 @@ baseURL: "https://57.europen.cz/"
 languageCode: cs-CZ
 DefaultContentLanguage: cs
 title: Jarní konference EurOpen.cz 2025
-description: 57. konference EurOpen.cz 25.-28. května 2025 Brandýs nad Labem
+description: 57. konference EurOpen.cz 26.-28. května 2025 Brandýs nad Labem
 author: Jiří Sitera
 
 menus:
@@ -21,7 +21,7 @@ menus:
       pageRef: /about
 
 params:
-  subtitle: 57. konference EurOpen.cz 25.-28. května 2025 Brandýs nad Labem
+  subtitle: 57. konference EurOpen.cz 26.-28. května 2025 Brandýs nad Labem
   ui:
     footer_about_enable: true
     navbar_logo: false
