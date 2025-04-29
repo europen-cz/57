@@ -5,8 +5,8 @@ description: 57. konference EurOpen.cz 26.-28. května 2025 Brandýs nad Labem
 ---
 
 {{< blocks/cover title="Jarní konference EurOpen.cz 2025" image_anchor="top" height="auto" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-2">
-  Program konference
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://europen.zcu.cz/Anot/57/57poz.pdf">
+  Pozvánka/program (PDF)
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://form.simpleshop.cz/2lE8b/buy/">
   Přihlásit se
@@ -18,8 +18,7 @@ description: 57. konference EurOpen.cz 26.-28. května 2025 Brandýs nad Labem
 Programovací jazyky, vývoj software a programovací techniky
 </p>
 <p class="lead mt-3 mb-3">
-Z úvodníku Pavla Šimerdy: Už dlouho jsem chtěl uspořádat konferenci na téma programovacích jazyků, a když nikdo neprotestoval, vzal jsem si program letošní konference na hrb a začal se shánět po přednášejících...
-<a href="#td-block-2">celý úvodník.</a> </p>
+Z úvodníku Pavla Šimerdy: Už dlouho jsem chtěl uspořádat konferenci na téma programovacích jazyků, a když nikdo neprotestoval, vzal jsem si program letošní konference na hrb a začal se shánět po přednášejících... </p>
 {{< /blocks/cover >}}
 
 {{% blocks/lead color="primary" %}}
@@ -27,13 +26,6 @@ Z úvodníku Pavla Šimerdy: Už dlouho jsem chtěl uspořádat konferenci na t�
 {{% /blocks/lead %}}
 
 {{% blocks/section %}}
-
-<a class="btn btn-lg btn-primary me-3 mb-4" href="https://europen.zcu.cz/Anot/57/57poz.pdf">
-  Pozvánka/program (PDF)
-</a>
-<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/2lE8b/buy/">
-  Přihlásit se
-</a>
 
 Program konference
 {.h1}
