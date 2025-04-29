@@ -74,54 +74,23 @@ Stisknutím tlačítka "přihlásit se" se otevře přihláška. V případě ja
 
 {{% /blocks/section %}}
 
-{{< blocks/section color="white" >}}
+{{% blocks/section color="white" %}}
 
-{{< collapse >}}
-{{< collapse/above >}}
 **Jaký je kontakt na organizátory konference?**
-{{< /collapse/above >}}
-{{< collapse/below >}}
 Hlavní kontakt je: Anna Šlosarová, EurOpen.CZ, Univerzitní 8, 306 14 Plzeň, telefon 377 632 804, email europen@europen.cz, ostatní kontakty jsou v patičce této stránky. IČO: 61389081, sdružení EurOpen.CZ není plátcem DPH.
-{{< /collapse/below >}}
-{{< /collapse >}}
 
-{{< collapse >}}
-{{< collapse/above >}}
 **Jaká je cena konference?**
-{{< /collapse/above >}}
-{{< collapse/below >}}
 Cena se skládá z vložného a nákladů na stravu a ubytování. Základní **vložné je 2450 Kč** na konferenci a 400 Kč na tutorial. Podrobnější informace následují. Vložné na konferenci: včasné členové 2200 Kč a nečlenové pak 2450 Kč. Po vypršení včasného přihlášení je vložné členové 2400 Kč a nečlenové pak 2650 Kč. Náklady na ubytování jsou 700 Kč na den včetně snídaně. Stravování: oběd 175 Kč, večeře 150 Kč a občerstvení na přestávku 150 Kč. Včasná platba je do 12.5.2025 včetně.
 Cena za prohlídku kostelů v úterý odpoledne je zcela zvlášť, 300 Kč na osobu v hotovosti na místě.
-{{< /collapse/below >}}
-{{< /collapse >}}
 
-{{< collapse >}}
-{{< collapse/above >}}
 **Co je to tutorial?**
-{{< /collapse/above >}}
-{{< collapse/below >}}
 Tutorial je prakticky orientovaná část konference na konkrétní téma, která trvá typicky 3-4 hodiny. Počet účastníků je omezen, je třeba se přihlásit (navíc k vlastní konferenci). Tutorial má také vložné plus 400 Kč k vložnému konference.
-{{< /collapse/below >}}
-{{< /collapse >}}
 
-{{< collapse >}}
-{{< collapse/above >}}
 **Lze se přihlásit pouze na jeden den?**
-{{< /collapse/above >}}
-{{< collapse/below >}}
 Ne, přihláška na konferenci je jen jedna zahrnující oba dny.
-{{< /collapse/below >}}
-{{< /collapse >}}
 
-
-{{< collapse >}}
-{{< collapse/above >}}
 **Jaké jsou podmínky pro přednášející?**
-{{< /collapse/above >}}
-{{< collapse/below >}}
 Za přednášku náleží autorovi honorář ve výši 2500 Kč před zdaněním. Délka přednášky se očekává 30-50 minut.
-{{< /collapse/below >}}
-{{< /collapse >}}
 
 
-{{< /blocks/section >}}
+{{% /blocks/section %}}
