@@ -8,7 +8,7 @@ description: 57. konference EurOpen.cz 26.-28. května 2025 Brandýs nad Labem
 <a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-2">
   Program konference
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://form.simpleshop.cz/2lE8b/">
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://form.simpleshop.cz/2lE8b/buy/">
   Přihlásit se
 </a>
 <p class="lead mt-3 mb-3 fw-bold">
@@ -31,7 +31,7 @@ Z úvodníku Pavla Šimerdy: Už dlouho jsem chtěl uspořádat konferenci na t�
 <a class="btn btn-lg btn-primary me-3 mb-4" href="https://europen.zcu.cz/Anot/57/57poz.pdf">
   Pozvánka/program (PDF)
 </a>
-<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/2lE8b/">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/2lE8b/buy/">
   Přihlásit se
 </a>
 
@@ -60,7 +60,7 @@ Formát konference
 {.h2}
 - **Pondělí** *přednáškové bloky od 9 do 17h*, poté večeře a večerní (netechnická) přednáška. Je **možno přijet v neděli** večer a účastnit se neformálního setkání u večeře a vyhnout se rannímu cestování.
 - **Úterý** *přednáškový blok od 9 do 13h*, poté oběd a následuje práce v sekcích. Ta je příležitostí pro navazování neformálních kontaktů i *aktivní odpočinek* v okolí. Rezervována je ve 14:30 *prohlídka kostelů ve Staré Boleslavi (Bazilika Nanebevzetí Panny Marie, bazilika svatého Václava a kostel svatého Klementa*).
-- **Středa** *tutorial od 9 do 12h* Bezpečné programování: Jak využít vlastnosti programovacího jazyka (Pavel Šimerda).
+- **Středa** *tutorial od 9 do 12h* **Bezpečné programování: Jak využít vlastnosti programovacího jazyka** (Pavel Šimerda).
 
 Konference proběhne od **pondělí 26. května do středy 28. května** v [Brandýse nad Labem](https://cs.wikipedia.org/wiki/Brand%C3%BDs_nad_Labem-Star%C3%A1_Boleslav) v <a href="https://www.sportcentrumbrandys.cz/">Sportcentru Brandýs</a>.
 
@@ -76,7 +76,7 @@ Jak se přihlásit?
 {.h1}
 Stisknutím tlačítka "přihlásit se" se otevře přihláška. V případě jakýchkoliv dotazů či speciálních potřeb se nám prosím ozvěte viz kontakty níže. Děkujeme a těšíme se na viděnou.
 
-<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/2lE8b/">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/2lE8b/buy/">
   Přihlásit se
 </a>
 
