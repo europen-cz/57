@@ -5,52 +5,80 @@ description: 57. konference EurOpen.cz 26.-28. května 2025 Brandýs nad Labem
 ---
 
 {{< blocks/cover title="Jarní konference EurOpen.cz 2025" image_anchor="top" height="auto" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-1">
-Zúčastnit se
+<a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-2">
+  Program konference
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="#td-block-2">
-Mít přednášku
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://form.simpleshop.cz/2lE8b/">
+  Přihlásit se
 </a>
 <p class="lead mt-3 mb-3 fw-bold">
-26.-28. května 2025 Brandýs nad Labem <a href="https://www.sportcentrumbrandys.cz/">Sportcentrum Brandýs</a>
+26.-28. května 2025 Brandýs nad Labem
 </p>
 <p class="lead mt-3 mb-3 fw-bold">
-Hlavní téma vývoj a programování
+Programovací jazyky, vývoj software a programovací techniky
 </p>
 <p class="lead mt-3 mb-3">
-Stručně: svěží vítr v programovém výboru pod vedením Pavla Šimerdy, blízko Prahy, jako vždy skvělí lidé a okolí nejen pro práci v sekcích.
-<a href="#td-block-2">Více o přípravě konference.</a> </p>
+Z úvodníku Pavla Šimerdy: Už dlouho jsem chtěl uspořádat konferenci na téma programovacích jazyků, a když nikdo neprotestoval, vzal jsem si program letošní konference na hrb a začal se shánět po přednášejících...
+<a href="#td-block-2">celý úvodník.</a> </p>
 {{< /blocks/cover >}}
 
+{{% blocks/lead color="primary" %}}
+**Programovací jazyky se mění, máme pro vás dva dny přednášek lidí, kteří o tom hodně ví.**
+{{% /blocks/lead %}}
+
 {{% blocks/section %}}
-Jak se přihlásit na konferenci
+
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://europen.zcu.cz/Anot/57/57poz.pdf">
+  Pozvánka/program (PDF)
+</a>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/2lE8b/">
+  Přihlásit se
+</a>
+
+Program konference
 {.h1}
-Aktuálně probíhá příprava programu konference. Následně bude zveřejněna pozvánka a otevřena přihláška. Plánovaný formát konference:
+Program včetně podrobných anotací jednotlivých přednášek je k dispozici v pozvánkce viz tlačítko výše. Nejlepším způsobem jak získat rychlou představu je úvodní slovo předsedy programového výboru.
+
+Úvodní slovo předsedy programového výboru
+{.h2}
+**Milí přátelé EurOpenu!**
+
+Zaměření letošní konference jsme upekli v Hotelu Mědínek v Kutné Hoře. Už dlouho jsem chtěl uspořádat konferenci na téma programovacích jazyků, a když nikdo neprotestoval, vzal jsem si program letošní konference na hrb a začal se shánět po přednášejících, kteří by dobře zapadli jak do domluveného konceptu, tak do charakteru konference. Některé z přednášejících ostatně už znáte z let minulých.
+
+Měl jsem představu, že se podíváme na současný stav programovacích jazyků, nástrojů a dalších souvisejících témat. Tak jedna z prvních nabídek přednášky byla na téma Cobol a Mainframe. Protože jsem už Davida slyšel na toto téma mluvit v rámci programátorských večerů, které jsme v době pandemie Covid-19 s malou skupinou lidí zavedli na platormě Clubhouse a později přesunuli na Discord, věděl jsem, že tohle na EurOpen chceme.
+
+Pak přišly nabídky přednášek o programovacích jazycích Modula-2, Lisp a APL, a to už jsem si říkal, jestli to s tou archeologií trochu nepřeháníme. Trochu to zachránila Hanička, která věrně zastupuje naši zemi a progresivní směr při tvorbě nových verzí programovacího jazyka C++, kterému už taky pomalu táhne na půlstoleté jubileum, a Matějčík s Pythonem a Rustem.
+
+Aby i letošní program zůstal dostatečně pestrý, proložíme to tématy z bezpečnosti, operačních systému, radarové techniky, použití informatiky ve výuce školních dětí a v pondělí večer si místo tradiční netechnické přednášky něco z těch dětských hraček a učebních pomůcek představíme a především vyzkoušíme.
+
+Věřím, že se vám letošní program bude líbit, a že společně najdeme zajímavé nosné téma pro další běh naší tradiční konference. Ostatně jsem tu vlastně benjamínek, když jezdím s přestávkami od roku 2010, zatímco EurOpen je tu s námi už od roku 1988. Těšíme se na vás!
+
+*Pavel Šimerda*
+
+
+Formát konference
+{.h2}
 - **Pondělí** *přednáškové bloky od 9 do 17h*, poté večeře a večerní (netechnická) přednáška. Je **možno přijet v neděli** večer a účastnit se neformálního setkání u večeře a vyhnout se rannímu cestování.
 - **Úterý** *přednáškový blok od 9 do 13h*, poté oběd a následuje práce v sekcích. Ta je příležitostí pro navazování neformálních kontaktů i *aktivní odpočinek* v okolí. Rezervována je ve 14:30 *prohlídka kostelů ve Staré Boleslavi (Bazilika Nanebevzetí Panny Marie, bazilika svatého Václava a kostel svatého Klementa*).
 - **Středa** *tutorial od 9 do 12h* Bezpečné programování: Jak využít vlastnosti programovacího jazyka (Pavel Šimerda).
 
-**Rezervujte si v kalendáři:** Jarní konference EurOpen.CZ 2025 proběhle od **pondělí 26. května do středy 28. května** v [Brandýse nad Labem](https://cs.wikipedia.org/wiki/Brand%C3%BDs_nad_Labem-Star%C3%A1_Boleslav).
+Konference proběhne od **pondělí 26. května do středy 28. května** v [Brandýse nad Labem](https://cs.wikipedia.org/wiki/Brand%C3%BDs_nad_Labem-Star%C3%A1_Boleslav) v <a href="https://www.sportcentrumbrandys.cz/">Sportcentru Brandýs</a>.
+
+Programový výbor
+{.h2}
+**Pavel Šimerda**, Jiří Sitera, Pavel Růžička, Zdeněk Šustr
 
 {{% /blocks/section %}}
 
 
-{{% blocks/section color="secondary" %}}
-Jak nabídnout svoji přednášku?
+{{% blocks/section %}}
+Jak se přihlásit?
 {.h1}
-Pro konferenci hledáme příspěvky zaměřené na výměnu zkušeností a informací o novinkách i ověřených technologiích, postupech nebo nástrojích, na zkušenosti z nasazení či řešení praktických problémů.
+Stisknutím tlačítka "přihlásit se" se otevře přihláška. V případě jakýchkoliv dotazů či speciálních potřeb se nám prosím ozvěte viz kontakty níže. Děkujeme a těšíme se na viděnou.
 
-Předem děkujeme za návrhy přednášek, nápady koho oslovit i za organizační pomoc při přípravě semináře.
-Nabídky a návrhy směřujte na předsedu programového výboru Pavla Šimerdu nebo email europen@europen.cz.
-
-Preferovaná témata přednášek:
-- **Programovací jazyky, standardy, ekosystémy.**
-- **Specifika hardware, mikrokontrolery a jiné zajímavé aspekty tvorby kódu.**
-- **Programovací techniky, algoritmy a související témata.**
-
-Programový výbor
-{.h2}
-**Pavel Šimerda**, Zdeněk Šustr, Jiří Sitera
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/2lE8b/">
+  Přihlásit se
+</a>
 
 {{% /blocks/section %}}
 

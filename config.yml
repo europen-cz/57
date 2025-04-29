@@ -10,12 +10,12 @@ menus:
     - name: EurOpen.CZ
       weight: 10
       url: "https://www.europen.cz/"
-    - name: Zúčastnit se
+    - name: Program
       weight: 20
-      url: "/#td-block-1"
-    - name: Mít přednášku
-      weight: 30
       url: "/#td-block-2"
+    - name: Přihlásit se
+      weight: 30
+      url: "/#td-block-3"
     - name: O stránce
       weight: 40
       pageRef: /about
