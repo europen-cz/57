@@ -41,7 +41,7 @@ Měl jsem představu, že se podíváme na současný stav programovacích jazyk
 
 Pak přišly nabídky přednášek o programovacích jazycích Modula-2, Lisp a APL, a to už jsem si říkal, jestli to s tou archeologií trochu nepřeháníme. Trochu to zachránila Hanička, která věrně zastupuje naši zemi a progresivní směr při tvorbě nových verzí programovacího jazyka C++, kterému už taky pomalu táhne na půlstoleté jubileum, a Matějčík s Pythonem a Rustem.
 
-Aby i letošní program zůstal dostatečně pestrý, proložíme to tématy z bezpečnosti, operačních systému, radarové techniky, použití informatiky ve výuce školních dětí a v pondělí večer si místo tradiční netechnické přednášky něco z těch dětských hraček a učebních pomůcek představíme a především vyzkoušíme.
+Aby i letošní program zůstal dostatečně pestrý, proložíme to tématy z bezpečnosti, operačních systémů, radarové techniky, použití informatiky ve výuce školních dětí a v pondělí večer si místo tradiční netechnické přednášky něco z těch dětských hraček a učebních pomůcek představíme a především vyzkoušíme.
 
 Věřím, že se vám letošní program bude líbit, a že společně najdeme zajímavé nosné téma pro další běh naší tradiční konference. Ostatně jsem tu vlastně benjamínek, když jezdím s přestávkami od roku 2010, zatímco EurOpen je tu s námi už od roku 1988. Těšíme se na vás!
 
