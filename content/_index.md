@@ -80,7 +80,7 @@ Stisknutím tlačítka "přihlásit se" se otevře přihláška. V případě ja
 Hlavní kontakt je: Anna Šlosarová, EurOpen.CZ, Univerzitní 8, 306 14 Plzeň, telefon 377 632 804, email europen@europen.cz, ostatní kontakty jsou v patičce této stránky. IČO: 61389081, sdružení EurOpen.CZ není plátcem DPH.
 
 **Jaká je cena konference?**
-Cena se skládá z vložného a nákladů na stravu a ubytování. Základní **vložné je 2450 Kč** na konferenci a 400 Kč na tutorial. Podrobnější informace následují. Vložné na konferenci: včasné členové 2200 Kč a nečlenové pak 2450 Kč. Po vypršení včasného přihlášení je vložné členové 2400 Kč a nečlenové pak 2650 Kč. Náklady na ubytování jsou 700 Kč na den včetně snídaně. Stravování: oběd 175 Kč, večeře 150 Kč a občerstvení na přestávku 150 Kč. Včasná platba je do 12.5.2025 včetně.
+Cena se skládá z vložného a nákladů na stravu a ubytování. Základní **vložné je 2450 Kč** na konferenci a 400 Kč na tutorial. Podrobnější informace následují. Vložné na konferenci: včasné členové 2200 Kč a nečlenové pak 2450 Kč. Po vypršení včasného přihlášení je vložné členové 2400 Kč a nečlenové pak 2650 Kč. Náklady na ubytování jsou 700 Kč na den včetně snídaně. Stravování: oběd 175 Kč, večeře 150 Kč a občerstvení na přestávku 150 Kč. Včasná platba je do 21.5.2025 včetně.
 Cena za prohlídku kostelů v úterý odpoledne je zcela zvlášť, 300 Kč na osobu v hotovosti na místě.
 
 **Co je to tutorial?**
